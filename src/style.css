@@ -1,0 +1,520 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    height: 70px;
+    display: flex;
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+.nav--logo {
+    max-width: 100px;
+}
+/* Frame 3 */
+hero{
+
+    display: flex;
+    
+    padding: 0px;
+    position: absolute;
+    width: 395.91px;
+    height: 232px;
+    left: 77px;
+    top: 96px;
+}
+.herophoto{
+    max-width: 400px;
+    align-self: center;
+}
+.herotext{
+    margin-bottom: 16px;
+    /* Online Experiences */
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 0px;
+top: 250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+
+}
+.heroparagraph{
+
+    /* Join unique interactive activities led by one-of-a-kind hosts—all without leaving home. */
+
+position: absolute;
+width: 320px;
+height: 56px;
+left: 0px;
+top: 320px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+color: #222222;
+
+
+}
+.cardimg1{
+    /* image 12 */
+
+position: absolute;
+width: 176px;
+height: 235px;
+left: 37px;
+top: 521px;
+
+
+border-radius: 9px;
+
+}
+.cardimg11{
+    /* Group 80 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 43px;
+top: 527px;
+
+
+}
+
+.cardimg2{
+    /* wedding-photography 1 */
+
+position: absolute;
+width: 176px;
+height: 235px;
+left: 231px;
+top: 521px;
+
+
+border-radius: 9px;
+
+}
+
+.cardimg22{
+    /* Group 81 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 239px;
+top: 527px;
+
+
+}
+.cardimg3{
+    /* mountain-bike 1 */
+
+position: absolute;
+width: 176px;
+height: 235px;
+left: 425px;
+top: 521px;
+
+
+border-radius: 9px;
+
+}
+.cardimg33{
+position: absolute;
+width: 61px;
+height: 20px;
+left: 432px;
+top: 527px;
+
+}
+
+.cardimg111{
+    /* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 36px;
+top: 765px;
+
+border-radius: 0.5px;
+
+}
+.cardimg1111{
+    /* 5.0 */
+
+position: absolute;
+width: 18px;
+height: 12px;
+left: 53px;
+top: 767px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 100%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.cardimg11111{
+    /* (6) */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 73px;
+top: 766px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+}
+.cardimg16{
+    /* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 93px;
+top: 772px;
+
+background: #918E9B;
+
+}
+.cardimg17{
+    /* USA */
+
+position: absolute;
+width: 23px;
+height: 14px;
+left: 97px;
+top: 766px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+}
+.img1text{
+    /* Life lessons with Katie Zaferes */
+
+position: absolute;
+width: 175px;
+height: 14px;
+left: 37px;
+top: 778px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.img1text2{
+    /* From $136 / person */
+
+position: absolute;
+width: 144px;
+height: 14px;
+left: 36px;
+top: 799px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+
+.cardimg23{
+    /* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 230px;
+top: 765px;
+
+
+border-radius: 0.5px;
+
+}
+.cardimg24{
+    /* 5.0 */
+
+position: absolute;
+width: 18px;
+height: 12px;
+left: 247px;
+top: 767px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.cardimg25{
+    /* (30) */
+
+position: absolute;
+width: 20px;
+height: 15px;
+left: 266px;
+top: 766px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #918E9B;
+
+
+}
+.cardimg26{
+    /* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 289px;
+top: 773px;
+
+background: #918E9B;
+}
+.cardimg27{
+    /* USA */
+
+position: absolute;
+width: 23px;
+height: 14px;
+left: 295px;
+top: 766px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+}
+.img2text{
+    /* Learn wedding photography */
+
+position: absolute;
+width: 175px;
+height: 14px;
+left: 231px;
+top: 778px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.img2text2{
+    /* From $125 / person */
+
+position: absolute;
+width: 144px;
+height: 14px;
+left: 230px;
+top: 799px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.cardimg33{
+    /* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 424px;
+top: 765px;
+
+border-radius: 0.5px;
+
+}
+.cardimg34{
+    /* 4.8 */
+
+position: absolute;
+width: 18px;
+height: 12px;
+left: 440px;
+top: 767px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.cardimg35{
+    /* (2) */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 460px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+}
+.cardimg36{
+    /* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 480px;
+top: 771px;
+
+background: #918E9B;
+
+}
+.cardimg37{
+    /* USA */
+
+position: absolute;
+width: 23px;
+height: 14px;
+left: 484px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+}
+.img3text{
+    /* Group Mountain Biking */
+
+position: absolute;
+width: 175px;
+height: 14px;
+left: 425px;
+top: 780px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
+.img3text2{
+    /* From $50 / person */
+
+position: absolute;
+width: 144px;
+height: 14px;
+left: 424px;
+top: 800px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+}
